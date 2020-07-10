@@ -1,1015 +1,1016 @@
 {
-   "BedWars":{
-      "daily":[
-         {
-            "name":"First Win of the Day",
-            "description":"Win a game of Bed Wars",
-            "xp":3500
-         },
-         {
-            "name":"One More Game!",
-            "description":"Play 2 games of Bed Wars",
-            "xp":3500
-         }
-      ],
-      "weekly":[
-         {
-            "name":"Bed Removal Co.",
-            "description":"Break 25 Beds in Bed Wars",
-            "xp":7000
-         },
-         {
-            "name":"Sleep Tight.",
-            "description":"Win 10 dream games in Bed Wars",
-            "xp":7000
-         }
-      ],
-      "challenges":[
-         {
-            "name":"Defensive",
-            "description":"Defend your bed against 5 attackers in a single game"
-         },
-         {
-            "name":"Support",
-            "description":"Collect 10 diamonds from generators in a single game"
-         },
-         {
-            "name":"Offensive",
-            "description":"Destroy 2 beds in a single game"
-         }
-      ]
-   },
-   "SkyWars":{
-      "daily":[
-         {
-            "name":"Skywars Solo Win",
-            "description":"Win a game in solo mode",
-            "xp":3000
-         },
-         {
-            "name":"Skywars Solo Kills",
-            "description":"Kill 15 players in solo mode",
-            "xp":3000
-         },
-         {
-            "name":"Skywars Doubles Win",
-            "description":"Win a game in doubles mode",
-            "xp":3000
-         },
-         {
-            "name":"Skywars Doubles Kills",
-            "description":"Kill 15 players in doubles mode",
-            "xp":3000
-         },
-         {
-            "name":"Skywars Lab Win",
-            "description":"Win a game in the Skywars Labratory",
-            "xp":3000
-         },
-         {
-            "name":"Skywars Corrupted Win",
-            "description":"Win a corrupted game",
-            "xp":3000
-         }
-      ],
-      "weekly":[
-         {
-            "name":"Skywars Weekly Kills",
-            "description":"Kill a total of 150 players in any mode",
-            "xp":18000
-         },
-         {
-            "name":"Skywars Scientist",
-            "description":"Win 10 games in any Laboratory mode",
-            "xp":10000
-         }
-      ],
-      "challenges":[
-         {
-            "name":"Feeding the Void challenge",
-            "description":"Kill 2 players by knocking them into the Void in a single match"
-         },
-         {
-            "name":"Rush Challenge",
-            "description":"Be the first to open a middle chest"
-         },
-         {
-            "name":"Ranked Challenge",
-            "description":"Kill 3 players in a single Ranked Mode match"
-         },
-         {
-            "name":"Enderman Challenge",
-            "description":"Have a total of 8 enderpearls in your inventory "
-         }
-      ]
-   },
-   "Arcade":{
-      "daily":[
-         {
-            "name":"Arcade Gamer",
-            "description":"Play 3 arcade games",
-            "xp":3250
-         },
-         {
-            "name":"Arcade Winner",
-            "description":"Win a game of arcade",
-            "xp":3250
-         }
-      ],
-      "weekly":[
-         {
-            "name":"Arcade Specialist",
-            "description":"Play 20 Arcade Games",
-            "xp":19500
-         }
-      ],
-      "challenges":[
-         {
-            "name":"Farm Hunt Challenge",
-            "description":"Kill a hunter in Farm Hunt"
-         },
-         {
-            "name":"Galaxy Wars Challenge",
-            "description":"Get a kill with a beam sword"
-         },
-         {
-            "name":"Blocking Dead Challenge",
-            "description":"Kill 50 zombies in Blocking Dead"
-         },
-         {
-            "name":"Throw Out Challenge",
-            "description":"Get a kill while you have at least 100 personal knockback"
-         },
-         {
-            "name":"Football Challenge",
-            "description":"Score 2 goals in a football game"
-         },
-         {
-            "name":"Bounty Hunter Challenge",
-            "description":"Obtain at least 60 score in Bounty Hunter"
-         },
-         {
-            "name":"Hole in the Wall Challenge",
-            "description":"Reach the finals during a game of Hole in the Wall"
-         },
-         {
-            "name":"Mini Walls Challenge",
-            "description":"Get a Final Kill using an arrow in a game of Mini Walls"
-         },
-         {
-            "name":"Creeper Attack Challenge",
-            "description":"Reach wave 25 in Creeper Attack"
-         },
-         {
-            "name":"Hypixel Says Challenge",
-            "description":"Obtain at least 20 points in a Hypixel Says game"
-         },
-         {
-            "name":"Zombies Challenge",
-            "description":"Kill 50 enemies in Zombies"
-         },
-         {
-            "name":"Dragon Wars Challenge",
-            "description":"Kill a player while riding the Dragon"
-         },
-         {
-            "name":"Pixel Painters Challenge",
-            "description":"Reach the finals while playing a game of Pixel Painters"
-         },
-         {
-            "name":"Hide and Seek Challenge",
-            "description":"Win a game of Party Pooper with at least 1 kill and without hitting the NPC"
-         },
-         {
-            "name":"Ender Spleef Challenge",
-            "description":"Have both BIGSHOT and TRIPLESHOT powers at the same time"
-         },
-         {
-            "name":"Party Games Challenge",
-            "description":"Win at least 3 rounds in Party Games"
-         }
-      ]
-   },
-   "Build Battle":{
-      "daily":[
-         {
-            "name":"Build Battle Player",
-            "description":"Play 3 games of Build Battle",
-            "xp":3500
-         },
-         {
-            "name":"Build Battle Winner",
-            "description":"Win a game of Build Battle",
-            "xp":3500
-         }
-      ],
-      "weekly":[
-         {
-            "name":"Master Architect",
-            "description":"Play 30 games of Build Battle",
-            "xp":21000
-         }
-      ],
-      "challenges":[
-         {
-            "name":"Top 3 challenge",
-            "description":"Finish a game in the top 3"
-         },
-         {
-            "name":"Guesser Challenge",
-            "description":"Guess 5 themes correctly in Guess the Build mode"
-         }
-      ]
-   },
-   "Cops and Crims":{
-      "daily":[
-         {
-            "name":"Win a Game! (Defusal)",
-            "description":"Win a game of Defusal Cops and Crims",
-            "xp":3500
-         },
-         {
-            "name":"Kill 15 players (Defusal)",
-            "description":"Get 15 kills in Defusal mode",
-            "xp":3500
-         },
-         {
-            "name":"Get 300 points (Deathmatch)",
-            "description":"Get 300 points in Team Deathmatch",
-            "xp":3500
-         },
-         {
-            "name":"Win a Game! (Deathmatch)",
-            "description":"Win a game of Deathmatch",
-            "xp":3500
-         }
-      ],
-      "weekly":[
-         {
-            "name":"100 kills and 1,500 points",
-            "description":"Kill 100 players in Defusal, Get 1500 points in Deathmatch",
-            "xp":19500
-         }
-      ],
-      "challenges":[
-         {
-            "name":"Pistol Challenge",
-            "description":"Get 3 pistol kills in a single match"
-         },
-         {
-            "name":"Knife Challenge",
-            "description":"Get a knife kill"
-         },
-         {
-            "name":"Grenade Challenge",
-            "description":"Get a grenade kill"
-         },
-         {
-            "name":"Killing Spree Challenge",
-            "description":"Get 5 kills in a row"
-         }
-      ]
-   },
-   "Blitz SG":{
-      "daily":[
-         {
-            "name":"Game of the Day",
-            "description":"Play a game of Blitz",
-            "xp":3250
-         },
-         {
-            "name":"Win Normal",
-            "description":"Win a game of Blitz Normal",
-            "xp":3250
-         },
-         {
-            "name":"Chest Looter",
-            "description":"Loot 25 Chests",
-            "xp":3250
-         },
-         {
-            "name":"Kills",
-            "description":"Kill 5 players in Blitz",
-            "xp":3250
-         }
-      ],
-      "weekly":[
-         {
-            "name":"Blitz Master",
-            "description":"Play 15 games of Blitz. Win 5 games of Blitz. Kill 30 players in Blitz",
-            "xp":20000
-         },
-         {
-            "name":"Blitz Expert",
-            "description":"Loot 100 Chests. Deal 250 Damage to Players",
-            "xp":20000
-         }
-      ],
-      "challenges":[
-         {
-            "name":"Star Challenge",
-            "description":"Use the Blitz Star"
-         },
-         {
-            "name":"Iron Man Challenge",
-            "description":"Wear a full set of Iron Armor"
-         },
-         {
-            "name":"Blitz Challenge",
-            "description":"Win a game before Deathmatch"
-         },
-         {
-            "name":"Resistance Challenge",
-            "description":"Kill a player before the 1-minute mark"
-         }
-      ]
-   },
-   "Smash Heroes":{
-      "daily":[
-         {
-            "name":"Smash Heroes Solo Win",
-            "description":"Win a game in solo mode",
-            "xp":3000
-         },
-         {
-            "name":"Smash Heroes Solo Kills",
-            "description":"Kill 15 enemy heroes in Solo mode",
-            "xp":3000
-         },
-         {
-            "name":"Smash Heroes Team Win",
-            "description":"Win a game in Team mode",
-            "xp":3000
-         },
-         {
-            "name":"Smash Heroes Team Kills",
-            "description":"Kill 15 enemy heroes in Team mode",
-            "xp":3000
-         }
-      ],
-      "weekly":[
-         {
-            "name":"Smash Heroes Weekly Kills",
-            "description":"Kill a total of 150 enemy heroes in any mode",
-            "xp":18000
-         }
-      ],
-      "challenges":[
-         {
-            "name":"Leaderboard Challenge",
-            "description":"Kill all enemies at least once in a game"
-         },
-         {
-            "name":"Crystal Challenge",
-            "description":"Obtain the Smash Crystal 2 times in a single game"
-         },
-         {
-            "name":"Smash Challenge",
-            "description":"Be the first player to activate your Smash during a game"
-         },
-         {
-            "name":"Flawless Challenge ",
-            "description":"Win a game without dying once"
-         }
-      ]
-   },
-   "The Pit":{
-      "daily":[
-         {
-            "name":"Hunter",
-            "description":"Kill 25 Players",
-            "xp":2000
-         },
-         {
-            "name":"Contracted",
-            "description":"Complete a Contract",
-            "xp":3000
-         }
-      ],
-      "weekly":[
-         {
-            "name":"Double Up",
-            "description":"Collect 10000 Gold",
-            "xp":7000
-         }
-      ]
-   },
-   "TNT Games":{
-      "daily":[
-         {
-            "name":"TNT Winner",
-            "description":"Win a game of TNT Games",
-            "xp":2500
-         },
-         {
-            "name":"TNT Run",
-            "description":"Walk over 500 blocks",
-            "xp":1800
-         },
-         {
-            "name":"PVP Run",
-            "description":"Kill 3 players in PVP Run",
-            "xp":1800
-         },
-         {
-            "name":"Bow Spleef",
-            "description":"Survive longer than a total of 40 players",
-            "xp":1800
-         },
-         {
-            "name":"TNT Tag",
-            "description":"Survive 7 rounds in total",
-            "xp":1800
-         },
-         {
-            "name":"TNT Wizards",
-            "description":"Get 10 kills in TNT Wizards",
-            "xp":1800
-         }
-      ],
-      "weekly":[
-         {
-            "name":"Explosive Fanatic",
-            "description":"Play 20 games of TNT Games",
-            "xp":15000
-         },
-         {
-            "name":"TNT Run",
-            "description":"Walk over 2000 blocks",
-            "xp":6000
-         },
-         {
-            "name":"PVP Run",
-            "description":"Get 25 kills in PVP Run",
-            "xp":6000
-         },
-         {
-            "name":"Bow Spleef",
-            "description":"Survive longer than a total of 200 players",
-            "xp":6000
-         },
-         {
-            "name":"TNT Tag",
-            "description":"Survive 50 rounds in total",
-            "xp":6000
-         },
-         {
-            "name":"TNT Wizards",
-            "description":"Kill 150 players in TNT Wizards",
-            "xp":6000
-         }
-      ],
-      "challenges":[
-         {
-            "name":"TNT Run Challenge",
-            "description":"Manage to stay in a game for at least 3 minutes"
-         },
-         {
-            "name":"PVP Run Challenge",
-            "description":"Kill a player without knocking them into the void"
-         },
-         {
-            "name":"Bow Spleef Challenge",
-            "description":"Use all of your perks"
-         },
-         {
-            "name":"TNT Tag Challenge",
-            "description":"Tag 5 people"
-         },
-         {
-            "name":"TNT Wizards Challenge",
-            "description":"Capture 4 points in a single game"
-         }
-      ]
-   },
-   "Murder Mystery":{
-      "daily":[
-         {
-            "name":"Winner",
-            "description":"Win a game in any mode",
-            "xp":3000
-         },
-         {
-            "name":"Power Play",
-            "description":"Kill the murderer or win as murderer in Classic mode",
-            "xp":3000
-         },
-         {
-            "name":"Hitman",
-            "description":"Kill 2 targets in Assassins mode",
-            "xp":1800
-         }
-      ],
-      "weekly":[
-         {
-            "name":"Professional",
-            "description":"Kill 25 players as murderer in Classic or Double Up mode",
-            "xp":12000
-         },
-         {
-            "name":"Big Winner",
-            "description":"Win 15 games in any mode",
-            "xp":12000
-         }
-      ],
-      "challenges":[
-         {
-            "name":"Murder Spree",
-            "description":"Kill 5 players as the murderer in a single game"
-         },
-         {
-            "name":"Sherlock",
-            "description":"Kill the murderer in under 2 minutes as the detective"
-         },
-         {
-            "name":"Hero",
-            "description":"Become the hero by killing the murderer as an innocent or the detective"
-         },
-         {
-            "name":"Serial Killer",
-            "description":"Get the most kills in Assassins mode"
-         }
-      ]
-   },
-   "Duels":{
-      "daily":[
-         {
-            "name":"Duels Player",
-            "description":"Play 5 games of duels",
-            "xp":3000
-         },
-         {
-            "name":"Duels Killer",
-            "description":"Kill 5 players in Duels",
-            "xp":3000
-         },
-         {
-            "name":"Duels Winner",
-            "description":"Win a game of Duels",
-            "xp":3000
-         }
-      ],
-      "weekly":[
-         {
-            "name":"Duels Weekly Kills",
-            "description":"Kill 100 players in Duels",
-            "xp":18000
-         },
-         {
-            "name":"Duels Weekly Wins",
-            "description":"Win 50 games of Duels",
-            "xp":18000
-         }
-      ],
-      "challenges":[
-         {
-            "name":"Feed The Void Challenge ",
-            "description":"Kill a player by knocking them into the void"
-         },
-         {
-            "name":"Teams Challenge",
-            "description":"Kill 2 players"
-         },
-         {
-            "name":"Target Practice Challenge",
-            "description":"Hit 20 successful bow shots"
-         }
-      ]
-   },
-   "Arena Brawl":{
-      "daily":[
-         {
-            "name":"Play Arena",
-            "description":"Play 5 games",
-            "xp":3250
-         },
-         {
-            "name":"Arena Kills",
-            "description":"Kill 5 players",
-            "xp":3250
-         },
-         {
-            "name":"Arena Wins",
-            "description":"Win 2 games",
-            "xp":3250
-         }
-      ],
-      "weekly":[
-         {
-            "name":"Play Arena",
-            "description":"Play 35 games",
-            "xp":21000
-         }
-      ],
-      "challenges":[
-         {
-            "name":"WHERE IS IT Challenge",
-            "description":"Grab a magical key during a game"
-         },
-         {
-            "name":"Triple Kill Challenge",
-            "description":"Kill at least 3 enemies in a 4V4 game"
-         },
-         {
-            "name":"No Ultimate Challenge",
-            "description":"Win a game without using your ultimate skill"
-         },
-         {
-            "name":"Cooperation Challenge",
-            "description":"Win a team game with all members of your team alive"
-         }
-      ]
-   },
-   "The Walls":{
-      "daily":[
-         {
-            "name":"Waller",
-            "description":"Play a game of Walls",
-            "xp":3500
-         },
-         {
-            "name":"Kills",
-            "description":"Kill a total of 5 players",
-            "xp":3500
-         },
-         {
-            "name":"Win",
-            "description":"Win a game of Walls",
-            "xp":3500
-         }
-      ],
-      "weekly":[
-         {
-            "name":"Walls Weekly",
-            "description":"Play 7 games of Walls, kill a total of 25 players",
-            "xp":21000
-         }
-      ],
-      "challenges":[
-         {
-            "name":"First Blood Challenge",
-            "description":"Be the first player to get a kill during a match"
-         },
-         {
-            "name":"Powerhouse Challenge",
-            "description":"Wear a fully enchanted set of armor"
-         },
-         {
-            "name":"Looting Challenge",
-            "description":"Open a secret chest during a match"
-         },
-         {
-            "name":"Double Kill Challenge",
-            "description":"Get 2 kills within 5 seconds"
-         }
-      ]
-   },
-   "Turbo Kart Racers":{
-      "daily":[
-         {
-            "name":"Bling Bling",
-            "description":"Grab 50 coin pickups",
-            "xp":4200
-         },
-         {
-            "name":"International Championship",
-            "description":"Complete 5 races",
-            "xp":4200
-         },
-         {
-            "name":"Racer",
-            "description":"Complete 5 laps",
-            "xp":4200
-         }
-      ],
-      "weekly":[
-         {
-            "name":"Turbo Kart Racers",
-            "description":"Complete 35 races",
-            "xp":24000
-         }
-      ],
-      "challenges":[
-         {
-            "name":"Coin Challenge",
-            "description":"Pickup at least 30 coins in a single game"
-         },
-         {
-            "name":"First Place Challenge",
-            "description":"Get hit by a Blue Torpedo"
-         },
-         {
-            "name":"Banana Challenge",
-            "description":"Hit a player with a Banana"
-         },
-         {
-            "name":"Leaderboard Challenge",
-            "description":"Finish the game in the top 3 players"
-         }
-      ]
-   },
-   "Paintball Warfare":{
-      "daily":[
-         {
-            "name":"Paintballer",
-            "description":"Win a game of Paintball",
-            "xp":3500
-         },
-         {
-            "name":"Paintball Killer",
-            "description":"Kill 100 players in Paintball",
-            "xp":2500
-         }
-      ],
-      "weekly":[
-         {
-            "name":"Paintball Expert",
-            "description":"Kill 750 players in Paintball Play 30 games of Paintball",
-            "xp":21000
-         }
-      ],
-      "challenges":[
-         {
-            "name":"Kill Streak Challenge",
-            "description":"Use 5 killstreaks in a single match"
-         },
-         {
-            "name":"Killing Spree Challenge",
-            "description":"Get 5 kills within 10 Seconds"
-         },
-         {
-            "name":"Nuke Challenge",
-            "description":"Get at least 8 kills with a Nuke"
-         },
-         {
-            "name":"Finish Challenge",
-            "description":"Get the last kill in a match"
-         }
-      ]
-   },
-   "Quakecraft":{
-      "daily":[
-         {
-            "name":"Quake Player",
-            "description":"Play 3 games of Quakecraft",
-            "xp":3000
-         },
-         {
-            "name":"Sniper",
-            "description":"Kill 50 players in Quakecraft",
-            "xp":3000
-         },
-         {
-            "name":"Winner",
-            "description":"Win 1 game of Quakecraft",
-            "xp":3000
-         }
-      ],
-      "weekly":[
-         {
-            "name":"Bazinga!",
-            "description":"Play 20 games of Quakecraft. Get 10 Killstreaks",
-            "xp":18000
-         }
-      ],
-      "challenges":[
-         {
-            "name":"Powerup Challenge",
-            "description":"Obtain both Rapid Fire and Speed Boost powerups in a single game"
-         },
-         {
-            "name":"Killing Streak Challenge",
-            "description":"Obtain 2 different killstreaks in a single match"
-         },
-         {
-            "name":"Don't Blink Challenge",
-            "description":"Shut down an enemy player during his streak"
-         },
-         {
-            "name":"Combo Challenge",
-            "description":"Get a double kill"
-         }
-      ]
-   },
-   "Warlords":{
-      "daily":[
-         {
-            "name":"Capture the Flag",
-            "description":"Win 1 match with at least 10 kills or assists in Capture the Flag",
-            "xp":4200
-         },
-         {
-            "name":"Team Deathmatch",
-            "description":"Win 1 match with at least 10 kills or assists in Team Deathmatch",
-            "xp":4200
-         },
-         {
-            "name":"Domination",
-            "description":"Win 1 match with at least 15 kills or assists in Domination",
-            "xp":4200
-         },
-         {
-            "name":"Victorious",
-            "description":"Win 1 match of Warlords",
-            "xp":4200
-         },
-         {
-            "name":"Carry, Secured!",
-            "description":"30 points for kills/assists on the enemy flag carrier, 15 points for kills/assists near allied flag carrier, 100 points for capturing the flag, 30 points for capturing the domination point, 5 points for TDM kills/assists",
-            "xp":4200
-         }
-      ],
-      "weekly":[
-         {
-            "name":"Dedication",
-            "description":"Complete 30 matches with at least 10 kills or assists in any game mode",
-            "xp":24000
-         },
-         {
-            "name":"All Star",
-            "description":"Deal 1,500,000 total damage. Heal 1,500,00 total health",
-            "xp":15000
-         }
-      ],
-      "challenges":[
-         {
-            "name":"Support Challenge",
-            "description":"Heal at least 125,000 HP on your teammates during a game"
-         },
-         {
-            "name":"Brute Challenge",
-            "description":"Reach the top damage leaderboard at the end of the game"
-         },
-         {
-            "name":"Capture Challenge",
-            "description":"Capture a flag"
-         },
-         {
-            "name":"Carry Challenge",
-            "description":"End the game with at least 3 times more kills than deaths in TDM"
-         }
-      ]
-   },
-   "UHC Champions":{
-      "daily":[
-         {
-            "name":"Team UHC Champions",
-            "description":"Kill 1 player in Team UHC Champions",
-            "xp":3500
-         },
-         {
-            "name":"Solo UHC Champions",
-            "description":"Kill 1 player in Solo UHC Champions",
-            "xp":3500
-         },
-         {
-            "name":"UHC Deathmatch",
-            "description":"Kill 2 playes during a UHC Champions Deathmatch",
-            "xp":3500
-         },
-         {
-            "name":"Solo Speed Brawler",
-            "description":"Win a game of SOlo Speed UHC",
-            "xp":3000
-         },
-         {
-            "name":"Team Speed Brawler",
-            "description":"Win a game of Team Speed UHC",
-            "xp":3000
-         }
-      ],
-      "weekly":[
-         {
-            "name":"UHC Champions",
-            "description":"Kill 20 players in UHC Champions",
-            "xp":21000
-         },
-         {
-            "name":"SpeedUHC Madness",
-            "description":"Kill 100 players in Speed UHC",
-            "xp":19500
-         }
-      ],
-      "challenges":[
-         {
-            "name":"Longshot Challenge",
-            "description":"Hit an enemy from at least 60 blocks away with an arrow"
-         },
-         {
-            "name":"Perfect Start Challenge",
-            "description":"Don't take any damage during the Grace Period"
-         },
-         {
-            "name":"Hunter Challenge",
-            "description":"Obtain at least 5 kills before the start of Deathmatch"
-         },
-         {
-            "name":"Threat Challenge",
-            "description":"Deal at least 50 damage to enemy players during a game"
-         }
-      ]
-   },
-   "Mega Walls":{
-      "daily":[
-         {
-            "name":"Game of the Day",
-            "description":"Play a game of Mega Walls",
-            "xp":3500
-         },
-         {
-            "name":"Win",
-            "description":"Win a game of Mega Walls with at least 1 kill",
-            "xp":3500
-         },
-         {
-            "name":"Kills",
-            "description":"Kill 15 players in Mega Walls",
-            "xp":3500
-         }
-      ],
-      "weekly":[
-         {
-            "name":"Mega Waller",
-            "description":"Play 15 games of Mega Walls. Kill 25 players in Mega Walls",
-            "xp":21000
-         }
-      ],
-      "challenges":[
-         {
-            "name":"Wither Challenge",
-            "description":"Deal at least 200 damage to a Wither during a game"
-         },
-         {
-            "name":"Protector Challenge",
-            "description":"Get at least 10 kills/assists defending your Wither"
-         },
-         {
-            "name":"Berserk Challenge",
-            "description":"Obtain a top 3 Final Kill place at the end of your game"
-         },
-         {
-            "name":"Comeback Challenge",
-            "description":"Win a game while your Wither was not the last to fall"
-         }
-      ]
-   },
-   "VampireZ":{
-      "daily":[
-         {
-            "name":"VampireZ",
-            "description":"Play a game of VampireZ",
-            "xp":3000
-         },
-         {
-            "name":"Blood Drinker",
-            "description":"Kill 10 vampires in VampireZ. Kill 20 zombies in VampireZ",
-            "xp":3000
-         },
-         {
-            "name":"Human Killer",
-            "description":"Kill 10 Survivors in VampireZ",
-            "xp":3000
-         },
-         {
-            "name":"VampireZ Daily Win",
-            "description":"As a Survivor, win a game of VampireZ",
-            "xp":3000
-         }
-      ],
-      "weekly":[
-         {
-            "name":"Vampire Winner",
-            "description":"Win 12 games as a Human",
-            "xp":10500
-         },
-         {
-            "name":"Vampire Slayer",
-            "description":"Kill 130 Zombies. Kill 25 Vampires",
-            "xp":11000
-         },
-         {
-            "name":"Human Slayer",
-            "description":"Kill 100 Survivors",
-            "xp":11000
-         }
-      ],
-      "challenges":[
-         {
-            "name":"Fang Challenge",
-            "description":"Obtain 3 kills with the Original Fang in a single game"
-         },
-         {
-            "name":"Gold Challenge",
-            "description":"Win a game as a survivor without buying more than 100 gold"
-         },
-         {
-            "name":"Purifying Challenge",
-            "description":"Kill a Vampire with Holy Water"
-         },
-         {
-            "name":"Last Stand Challenge",
-            "description":"Be the last Survivor remaining in your game"
-         }
-      ]
-   }
+	"QuestsXP":3360,
+	"BedWars":{
+		"daily":[
+			{
+				"name":"First Win of the Day",
+				"description":"Win a game of Bed Wars",
+				"xp":3500
+			},
+			{
+				"name":"One More Game!",
+				"description":"Play 2 games of Bed Wars",
+				"xp":3500
+			}
+		],
+		"weekly":[
+			{
+				"name":"Bed Removal Co.",
+				"description":"Break 25 Beds in Bed Wars",
+				"xp":7000
+			},
+			{
+				"name":"Sleep Tight.",
+				"description":"Win 10 dream games in Bed Wars",
+				"xp":7000
+			}
+		],
+		"challenges":[
+			{
+				"name":"Defensive",
+				"description":"Defend your bed against 5 attackers in a single game"
+			},
+			{
+				"name":"Support",
+				"description":"Collect 10 diamonds from generators in a single game"
+			},
+			{
+				"name":"Offensive",
+				"description":"Destroy 2 beds in a single game"
+			}
+		]
+	},
+	"SkyWars":{
+		"daily":[
+			{
+				"name":"Skywars Solo Win",
+				"description":"Win a game in solo mode",
+				"xp":3000
+			},
+			{
+				"name":"Skywars Solo Kills",
+				"description":"Kill 15 players in solo mode",
+				"xp":3000
+			},
+			{
+				"name":"Skywars Doubles Win",
+				"description":"Win a game in doubles mode",
+				"xp":3000
+			},
+			{
+				"name":"Skywars Doubles Kills",
+				"description":"Kill 15 players in doubles mode",
+				"xp":3000
+			},
+			{
+				"name":"Skywars Lab Win",
+				"description":"Win a game in the Skywars Labratory",
+				"xp":3000
+			},
+			{
+				"name":"Skywars Corrupted Win",
+				"description":"Win a corrupted game",
+				"xp":3000
+			}
+		],
+		"weekly":[
+			{
+				"name":"Skywars Weekly Kills",
+				"description":"Kill a total of 150 players in any mode",
+				"xp":18000
+			},
+			{
+				"name":"Skywars Scientist",
+				"description":"Win 10 games in any Laboratory mode",
+				"xp":10000
+			}
+		],
+		"challenges":[
+			{
+				"name":"Feeding the Void challenge",
+				"description":"Kill 2 players by knocking them into the Void in a single match"
+			},
+			{
+				"name":"Rush Challenge",
+				"description":"Be the first to open a middle chest"
+			},
+			{
+				"name":"Ranked Challenge",
+				"description":"Kill 3 players in a single Ranked Mode match"
+			},
+			{
+				"name":"Enderman Challenge",
+				"description":"Have a total of 8 enderpearls in your inventory "
+			}
+		]
+	},
+	"Arcade":{
+		"daily":[
+			{
+				"name":"Arcade Gamer",
+				"description":"Play 3 arcade games",
+				"xp":3250
+			},
+			{
+				"name":"Arcade Winner",
+				"description":"Win a game of arcade",
+				"xp":3250
+			}
+		],
+		"weekly":[
+			{
+				"name":"Arcade Specialist",
+				"description":"Play 20 Arcade Games",
+				"xp":19500
+			}
+		],
+		"challenges":[
+			{
+				"name":"Farm Hunt Challenge",
+				"description":"Kill a hunter in Farm Hunt"
+			},
+			{
+				"name":"Galaxy Wars Challenge",
+				"description":"Get a kill with a beam sword"
+			},
+			{
+				"name":"Blocking Dead Challenge",
+				"description":"Kill 50 zombies in Blocking Dead"
+			},
+			{
+				"name":"Throw Out Challenge",
+				"description":"Get a kill while you have at least 100 personal knockback"
+			},
+			{
+				"name":"Football Challenge",
+				"description":"Score 2 goals in a football game"
+			},
+			{
+				"name":"Bounty Hunter Challenge",
+				"description":"Obtain at least 60 score in Bounty Hunter"
+			},
+			{
+				"name":"Hole in the Wall Challenge",
+				"description":"Reach the finals during a game of Hole in the Wall"
+			},
+			{
+				"name":"Mini Walls Challenge",
+				"description":"Get a Final Kill using an arrow in a game of Mini Walls"
+			},
+			{
+				"name":"Creeper Attack Challenge",
+				"description":"Reach wave 25 in Creeper Attack"
+			},
+			{
+				"name":"Hypixel Says Challenge",
+				"description":"Obtain at least 20 points in a Hypixel Says game"
+			},
+			{
+				"name":"Zombies Challenge",
+				"description":"Kill 50 enemies in Zombies"
+			},
+			{
+				"name":"Dragon Wars Challenge",
+				"description":"Kill a player while riding the Dragon"
+			},
+			{
+				"name":"Pixel Painters Challenge",
+				"description":"Reach the finals while playing a game of Pixel Painters"
+			},
+			{
+				"name":"Hide and Seek Challenge",
+				"description":"Win a game of Party Pooper with at least 1 kill and without hitting the NPC"
+			},
+			{
+				"name":"Ender Spleef Challenge",
+				"description":"Have both BIGSHOT and TRIPLESHOT powers at the same time"
+			},
+			{
+				"name":"Party Games Challenge",
+				"description":"Win at least 3 rounds in Party Games"
+			}
+		]
+	},
+	"Build Battle":{
+		"daily":[
+			{
+				"name":"Build Battle Player",
+				"description":"Play 3 games of Build Battle",
+				"xp":3500
+			},
+			{
+				"name":"Build Battle Winner",
+				"description":"Win a game of Build Battle",
+				"xp":3500
+			}
+		],
+		"weekly":[
+			{
+				"name":"Master Architect",
+				"description":"Play 30 games of Build Battle",
+				"xp":21000
+			}
+		],
+		"challenges":[
+			{
+				"name":"Top 3 challenge",
+				"description":"Finish a game in the top 3"
+			},
+			{
+				"name":"Guesser Challenge",
+				"description":"Guess 5 themes correctly in Guess the Build mode"
+			}
+		]
+	},
+	"Cops and Crims":{
+		"daily":[
+			{
+				"name":"Win a Game! (Defusal)",
+				"description":"Win a game of Defusal Cops and Crims",
+				"xp":3500
+			},
+			{
+				"name":"Kill 15 players (Defusal)",
+				"description":"Get 15 kills in Defusal mode",
+				"xp":3500
+			},
+			{
+				"name":"Get 300 points (Deathmatch)",
+				"description":"Get 300 points in Team Deathmatch",
+				"xp":3500
+			},
+			{
+				"name":"Win a Game! (Deathmatch)",
+				"description":"Win a game of Deathmatch",
+				"xp":3500
+			}
+		],
+		"weekly":[
+			{
+				"name":"100 kills and 1,500 points",
+				"description":"Kill 100 players in Defusal, Get 1500 points in Deathmatch",
+				"xp":19500
+			}
+		],
+		"challenges":[
+			{
+				"name":"Pistol Challenge",
+				"description":"Get 3 pistol kills in a single match"
+			},
+			{
+				"name":"Knife Challenge",
+				"description":"Get a knife kill"
+			},
+			{
+				"name":"Grenade Challenge",
+				"description":"Get a grenade kill"
+			},
+			{
+				"name":"Killing Spree Challenge",
+				"description":"Get 5 kills in a row"
+			}
+		]
+	},
+	"Blitz SG":{
+		"daily":[
+			{
+				"name":"Game of the Day",
+				"description":"Play a game of Blitz",
+				"xp":3250
+			},
+			{
+				"name":"Win Normal",
+				"description":"Win a game of Blitz Normal",
+				"xp":3250
+			},
+			{
+				"name":"Chest Looter",
+				"description":"Loot 25 Chests",
+				"xp":3250
+			},
+			{
+				"name":"Kills",
+				"description":"Kill 5 players in Blitz",
+				"xp":3250
+			}
+		],
+		"weekly":[
+			{
+				"name":"Blitz Master",
+				"description":"Play 15 games of Blitz. Win 5 games of Blitz. Kill 30 players in Blitz",
+				"xp":20000
+			},
+			{
+				"name":"Blitz Expert",
+				"description":"Loot 100 Chests. Deal 250 Damage to Players",
+				"xp":20000
+			}
+		],
+		"challenges":[
+			{
+				"name":"Star Challenge",
+				"description":"Use the Blitz Star"
+			},
+			{
+				"name":"Iron Man Challenge",
+				"description":"Wear a full set of Iron Armor"
+			},
+			{
+				"name":"Blitz Challenge",
+				"description":"Win a game before Deathmatch"
+			},
+			{
+				"name":"Resistance Challenge",
+				"description":"Kill a player before the 1-minute mark"
+			}
+		]
+	},
+	"Smash Heroes":{
+		"daily":[
+			{
+				"name":"Smash Heroes Solo Win",
+				"description":"Win a game in solo mode",
+				"xp":3000
+			},
+			{
+				"name":"Smash Heroes Solo Kills",
+				"description":"Kill 15 enemy heroes in Solo mode",
+				"xp":3000
+			},
+			{
+				"name":"Smash Heroes Team Win",
+				"description":"Win a game in Team mode",
+				"xp":3000
+			},
+			{
+				"name":"Smash Heroes Team Kills",
+				"description":"Kill 15 enemy heroes in Team mode",
+				"xp":3000
+			}
+		],
+		"weekly":[
+			{
+				"name":"Smash Heroes Weekly Kills",
+				"description":"Kill a total of 150 enemy heroes in any mode",
+				"xp":18000
+			}
+		],
+		"challenges":[
+			{
+				"name":"Leaderboard Challenge",
+				"description":"Kill all enemies at least once in a game"
+			},
+			{
+				"name":"Crystal Challenge",
+				"description":"Obtain the Smash Crystal 2 times in a single game"
+			},
+			{
+				"name":"Smash Challenge",
+				"description":"Be the first player to activate your Smash during a game"
+			},
+			{
+				"name":"Flawless Challenge ",
+				"description":"Win a game without dying once"
+			}
+		]
+	},
+	"The Pit":{
+		"daily":[
+			{
+				"name":"Hunter",
+				"description":"Kill 25 Players",
+				"xp":2000
+			},
+			{
+				"name":"Contracted",
+				"description":"Complete a Contract",
+				"xp":3000
+			}
+		],
+		"weekly":[
+			{
+				"name":"Double Up",
+				"description":"Collect 10000 Gold",
+				"xp":7000
+			}
+		]
+	},
+	"TNT Games":{
+		"daily":[
+			{
+				"name":"TNT Winner",
+				"description":"Win a game of TNT Games",
+				"xp":2500
+			},
+			{
+				"name":"TNT Run",
+				"description":"Walk over 500 blocks",
+				"xp":1800
+			},
+			{
+				"name":"PVP Run",
+				"description":"Kill 3 players in PVP Run",
+				"xp":1800
+			},
+			{
+				"name":"Bow Spleef",
+				"description":"Survive longer than a total of 40 players",
+				"xp":1800
+			},
+			{
+				"name":"TNT Tag",
+				"description":"Survive 7 rounds in total",
+				"xp":1800
+			},
+			{
+				"name":"TNT Wizards",
+				"description":"Get 10 kills in TNT Wizards",
+				"xp":1800
+			}
+		],
+		"weekly":[
+			{
+				"name":"Explosive Fanatic",
+				"description":"Play 20 games of TNT Games",
+				"xp":15000
+			},
+			{
+				"name":"TNT Run",
+				"description":"Walk over 2000 blocks",
+				"xp":6000
+			},
+			{
+				"name":"PVP Run",
+				"description":"Get 25 kills in PVP Run",
+				"xp":6000
+			},
+			{
+				"name":"Bow Spleef",
+				"description":"Survive longer than a total of 200 players",
+				"xp":6000
+			},
+			{
+				"name":"TNT Tag",
+				"description":"Survive 50 rounds in total",
+				"xp":6000
+			},
+			{
+				"name":"TNT Wizards",
+				"description":"Kill 150 players in TNT Wizards",
+				"xp":6000
+			}
+		],
+		"challenges":[
+			{
+				"name":"TNT Run Challenge",
+				"description":"Manage to stay in a game for at least 3 minutes"
+			},
+			{
+				"name":"PVP Run Challenge",
+				"description":"Kill a player without knocking them into the void"
+			},
+			{
+				"name":"Bow Spleef Challenge",
+				"description":"Use all of your perks"
+			},
+			{
+				"name":"TNT Tag Challenge",
+				"description":"Tag 5 people"
+			},
+			{
+				"name":"TNT Wizards Challenge",
+				"description":"Capture 4 points in a single game"
+			}
+		]
+	},
+	"Murder Mystery":{
+		"daily":[
+			{
+				"name":"Winner",
+				"description":"Win a game in any mode",
+				"xp":3000
+			},
+			{
+				"name":"Power Play",
+				"description":"Kill the murderer or win as murderer in Classic mode",
+				"xp":3000
+			},
+			{
+				"name":"Hitman",
+				"description":"Kill 2 targets in Assassins mode",
+				"xp":1800
+			}
+		],
+		"weekly":[
+			{
+				"name":"Professional",
+				"description":"Kill 25 players as murderer in Classic or Double Up mode",
+				"xp":12000
+			},
+			{
+				"name":"Big Winner",
+				"description":"Win 15 games in any mode",
+				"xp":12000
+			}
+		],
+		"challenges":[
+			{
+				"name":"Murder Spree",
+				"description":"Kill 5 players as the murderer in a single game"
+			},
+			{
+				"name":"Sherlock",
+				"description":"Kill the murderer in under 2 minutes as the detective"
+			},
+			{
+				"name":"Hero",
+				"description":"Become the hero by killing the murderer as an innocent or the detective"
+			},
+			{
+				"name":"Serial Killer",
+				"description":"Get the most kills in Assassins mode"
+			}
+		]
+	},
+	"Duels":{
+		"daily":[
+			{
+				"name":"Duels Player",
+				"description":"Play 5 games of duels",
+				"xp":3000
+			},
+			{
+				"name":"Duels Killer",
+				"description":"Kill 5 players in Duels",
+				"xp":3000
+			},
+			{
+				"name":"Duels Winner",
+				"description":"Win a game of Duels",
+				"xp":3000
+			}
+		],
+		"weekly":[
+			{
+				"name":"Duels Weekly Kills",
+				"description":"Kill 100 players in Duels",
+				"xp":18000
+			},
+			{
+				"name":"Duels Weekly Wins",
+				"description":"Win 50 games of Duels",
+				"xp":18000
+			}
+		],
+		"challenges":[
+			{
+				"name":"Feed The Void Challenge ",
+				"description":"Kill a player by knocking them into the void"
+			},
+			{
+				"name":"Teams Challenge",
+				"description":"Kill 2 players"
+			},
+			{
+				"name":"Target Practice Challenge",
+				"description":"Hit 20 successful bow shots"
+			}
+		]
+	},
+	"Arena Brawl":{
+		"daily":[
+			{
+				"name":"Play Arena",
+				"description":"Play 5 games",
+				"xp":3250
+			},
+			{
+				"name":"Arena Kills",
+				"description":"Kill 5 players",
+				"xp":3250
+			},
+			{
+				"name":"Arena Wins",
+				"description":"Win 2 games",
+				"xp":3250
+			}
+		],
+		"weekly":[
+			{
+				"name":"Play Arena",
+				"description":"Play 35 games",
+				"xp":21000
+			}
+		],
+		"challenges":[
+			{
+				"name":"WHERE IS IT Challenge",
+				"description":"Grab a magical key during a game"
+			},
+			{
+				"name":"Triple Kill Challenge",
+				"description":"Kill at least 3 enemies in a 4V4 game"
+			},
+			{
+				"name":"No Ultimate Challenge",
+				"description":"Win a game without using your ultimate skill"
+			},
+			{
+				"name":"Cooperation Challenge",
+				"description":"Win a team game with all members of your team alive"
+			}
+		]
+	},
+	"The Walls":{
+		"daily":[
+			{
+				"name":"Waller",
+				"description":"Play a game of Walls",
+				"xp":3500
+			},
+			{
+				"name":"Kills",
+				"description":"Kill a total of 5 players",
+				"xp":3500
+			},
+			{
+				"name":"Win",
+				"description":"Win a game of Walls",
+				"xp":3500
+			}
+		],
+		"weekly":[
+			{
+				"name":"Walls Weekly",
+				"description":"Play 7 games of Walls, kill a total of 25 players",
+				"xp":21000
+			}
+		],
+		"challenges":[
+			{
+				"name":"First Blood Challenge",
+				"description":"Be the first player to get a kill during a match"
+			},
+			{
+				"name":"Powerhouse Challenge",
+				"description":"Wear a fully enchanted set of armor"
+			},
+			{
+				"name":"Looting Challenge",
+				"description":"Open a secret chest during a match"
+			},
+			{
+				"name":"Double Kill Challenge",
+				"description":"Get 2 kills within 5 seconds"
+			}
+		]
+	},
+	"Turbo Kart Racers":{
+		"daily":[
+			{
+				"name":"Bling Bling",
+				"description":"Grab 50 coin pickups",
+				"xp":4200
+			},
+			{
+				"name":"International Championship",
+				"description":"Complete 5 races",
+				"xp":4200
+			},
+			{
+				"name":"Racer",
+				"description":"Complete 5 laps",
+				"xp":4200
+			}
+		],
+		"weekly":[
+			{
+				"name":"Turbo Kart Racers",
+				"description":"Complete 35 races",
+				"xp":24000
+			}
+		],
+		"challenges":[
+			{
+				"name":"Coin Challenge",
+				"description":"Pickup at least 30 coins in a single game"
+			},
+			{
+				"name":"First Place Challenge",
+				"description":"Get hit by a Blue Torpedo"
+			},
+			{
+				"name":"Banana Challenge",
+				"description":"Hit a player with a Banana"
+			},
+			{
+				"name":"Leaderboard Challenge",
+				"description":"Finish the game in the top 3 players"
+			}
+		]
+	},
+	"Paintball Warfare":{
+		"daily":[
+			{
+				"name":"Paintballer",
+				"description":"Win a game of Paintball",
+				"xp":3500
+			},
+			{
+				"name":"Paintball Killer",
+				"description":"Kill 100 players in Paintball",
+				"xp":2500
+			}
+		],
+		"weekly":[
+			{
+				"name":"Paintball Expert",
+				"description":"Kill 750 players in Paintball Play 30 games of Paintball",
+				"xp":21000
+			}
+		],
+		"challenges":[
+			{
+				"name":"Kill Streak Challenge",
+				"description":"Use 5 killstreaks in a single match"
+			},
+			{
+				"name":"Killing Spree Challenge",
+				"description":"Get 5 kills within 10 Seconds"
+			},
+			{
+				"name":"Nuke Challenge",
+				"description":"Get at least 8 kills with a Nuke"
+			},
+			{
+				"name":"Finish Challenge",
+				"description":"Get the last kill in a match"
+			}
+		]
+	},
+	"Quakecraft":{
+		"daily":[
+			{
+				"name":"Quake Player",
+				"description":"Play 3 games of Quakecraft",
+				"xp":3000
+			},
+			{
+				"name":"Sniper",
+				"description":"Kill 50 players in Quakecraft",
+				"xp":3000
+			},
+			{
+				"name":"Winner",
+				"description":"Win 1 game of Quakecraft",
+				"xp":3000
+			}
+		],
+		"weekly":[
+			{
+				"name":"Bazinga!",
+				"description":"Play 20 games of Quakecraft. Get 10 Killstreaks",
+				"xp":18000
+			}
+		],
+		"challenges":[
+			{
+				"name":"Powerup Challenge",
+				"description":"Obtain both Rapid Fire and Speed Boost powerups in a single game"
+			},
+			{
+				"name":"Killing Streak Challenge",
+				"description":"Obtain 2 different killstreaks in a single match"
+			},
+			{
+				"name":"Don't Blink Challenge",
+				"description":"Shut down an enemy player during his streak"
+			},
+			{
+				"name":"Combo Challenge",
+				"description":"Get a double kill"
+			}
+		]
+	},
+	"Warlords":{
+		"daily":[
+			{
+				"name":"Capture the Flag",
+				"description":"Win 1 match with at least 10 kills or assists in Capture the Flag",
+				"xp":4200
+			},
+			{
+				"name":"Team Deathmatch",
+				"description":"Win 1 match with at least 10 kills or assists in Team Deathmatch",
+				"xp":4200
+			},
+			{
+				"name":"Domination",
+				"description":"Win 1 match with at least 15 kills or assists in Domination",
+				"xp":4200
+			},
+			{
+				"name":"Victorious",
+				"description":"Win 1 match of Warlords",
+				"xp":4200
+			},
+			{
+				"name":"Carry, Secured!",
+				"description":"30 points for kills/assists on the enemy flag carrier, 15 points for kills/assists near allied flag carrier, 100 points for capturing the flag, 30 points for capturing the domination point, 5 points for TDM kills/assists",
+				"xp":4200
+			}
+		],
+		"weekly":[
+			{
+				"name":"Dedication",
+				"description":"Complete 30 matches with at least 10 kills or assists in any game mode",
+				"xp":24000
+			},
+			{
+				"name":"All Star",
+				"description":"Deal 1,500,000 total damage. Heal 1,500,00 total health",
+				"xp":15000
+			}
+		],
+		"challenges":[
+			{
+				"name":"Support Challenge",
+				"description":"Heal at least 125,000 HP on your teammates during a game"
+			},
+			{
+				"name":"Brute Challenge",
+				"description":"Reach the top damage leaderboard at the end of the game"
+			},
+			{
+				"name":"Capture Challenge",
+				"description":"Capture a flag"
+			},
+			{
+				"name":"Carry Challenge",
+				"description":"End the game with at least 3 times more kills than deaths in TDM"
+			}
+		]
+	},
+	"UHC Champions":{
+		"daily":[
+			{
+				"name":"Team UHC Champions",
+				"description":"Kill 1 player in Team UHC Champions",
+				"xp":3500
+			},
+			{
+				"name":"Solo UHC Champions",
+				"description":"Kill 1 player in Solo UHC Champions",
+				"xp":3500
+			},
+			{
+				"name":"UHC Deathmatch",
+				"description":"Kill 2 playes during a UHC Champions Deathmatch",
+				"xp":3500
+			},
+			{
+				"name":"Solo Speed Brawler",
+				"description":"Win a game of SOlo Speed UHC",
+				"xp":3000
+			},
+			{
+				"name":"Team Speed Brawler",
+				"description":"Win a game of Team Speed UHC",
+				"xp":3000
+			}
+		],
+		"weekly":[
+			{
+				"name":"UHC Champions",
+				"description":"Kill 20 players in UHC Champions",
+				"xp":21000
+			},
+			{
+				"name":"SpeedUHC Madness",
+				"description":"Kill 100 players in Speed UHC",
+				"xp":19500
+			}
+		],
+		"challenges":[
+			{
+				"name":"Longshot Challenge",
+				"description":"Hit an enemy from at least 60 blocks away with an arrow"
+			},
+			{
+				"name":"Perfect Start Challenge",
+				"description":"Don't take any damage during the Grace Period"
+			},
+			{
+				"name":"Hunter Challenge",
+				"description":"Obtain at least 5 kills before the start of Deathmatch"
+			},
+			{
+				"name":"Threat Challenge",
+				"description":"Deal at least 50 damage to enemy players during a game"
+			}
+		]
+	},
+	"Mega Walls":{
+		"daily":[
+			{
+				"name":"Game of the Day",
+				"description":"Play a game of Mega Walls",
+				"xp":3500
+			},
+			{
+				"name":"Win",
+				"description":"Win a game of Mega Walls with at least 1 kill",
+				"xp":3500
+			},
+			{
+				"name":"Kills",
+				"description":"Kill 15 players in Mega Walls",
+				"xp":3500
+			}
+		],
+		"weekly":[
+			{
+				"name":"Mega Waller",
+				"description":"Play 15 games of Mega Walls. Kill 25 players in Mega Walls",
+				"xp":21000
+			}
+		],
+		"challenges":[
+			{
+				"name":"Wither Challenge",
+				"description":"Deal at least 200 damage to a Wither during a game"
+			},
+			{
+				"name":"Protector Challenge",
+				"description":"Get at least 10 kills/assists defending your Wither"
+			},
+			{
+				"name":"Berserk Challenge",
+				"description":"Obtain a top 3 Final Kill place at the end of your game"
+			},
+			{
+				"name":"Comeback Challenge",
+				"description":"Win a game while your Wither was not the last to fall"
+			}
+		]
+	},
+	"VampireZ":{
+		"daily":[
+			{
+				"name":"VampireZ",
+				"description":"Play a game of VampireZ",
+				"xp":3000
+			},
+			{
+				"name":"Blood Drinker",
+				"description":"Kill 10 vampires in VampireZ. Kill 20 zombies in VampireZ",
+				"xp":3000
+			},
+			{
+				"name":"Human Killer",
+				"description":"Kill 10 Survivors in VampireZ",
+				"xp":3000
+			},
+			{
+				"name":"VampireZ Daily Win",
+				"description":"As a Survivor, win a game of VampireZ",
+				"xp":3000
+			}
+		],
+		"weekly":[
+			{
+				"name":"Vampire Winner",
+				"description":"Win 12 games as a Human",
+				"xp":10500
+			},
+			{
+				"name":"Vampire Slayer",
+				"description":"Kill 130 Zombies. Kill 25 Vampires",
+				"xp":11000
+			},
+			{
+				"name":"Human Slayer",
+				"description":"Kill 100 Survivors",
+				"xp":11000
+			}
+		],
+		"challenges":[
+			{
+				"name":"Fang Challenge",
+				"description":"Obtain 3 kills with the Original Fang in a single game"
+			},
+			{
+				"name":"Gold Challenge",
+				"description":"Win a game as a survivor without buying more than 100 gold"
+			},
+			{
+				"name":"Purifying Challenge",
+				"description":"Kill a Vampire with Holy Water"
+			},
+			{
+				"name":"Last Stand Challenge",
+				"description":"Be the last Survivor remaining in your game"
+			}
+		]
+	}
 }
